@@ -1,0 +1,77 @@
+# Copyright (C) 2015 Storefront Blog Excerpt
+# This file is distributed under the same license as the Storefront Blog Excerpt package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Storefront Blog Excerpt 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/storefront-blog-excerpt\n"
+"POT-Creation-Date: 2015-01-27 14:35:53+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: storefront-blog-excerpt.php:139
+#: storefront-blog-excerpt.php:148
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: storefront-blog-excerpt.php:168
+msgid "%sThanks for installing the Storefront Blog Excerpt extension. To get started, visit the %sCustomizer%s.%s %sOpen the Customizer%s"
+msgstr ""
+
+#: storefront-blog-excerpt.php:247
+msgid "Storefront Blog Excerpt"
+msgstr ""
+
+#: storefront-blog-excerpt.php:248
+msgid "Add a description, if you want to!"
+msgstr ""
+
+#: storefront-blog-excerpt.php:262
+msgid "Image selector"
+msgstr ""
+
+#: storefront-blog-excerpt.php:277
+msgid "Checkbox"
+msgstr ""
+
+#: storefront-blog-excerpt.php:278
+msgid "Here's a simple boolean checkbox option. In this instance it toggles wrapping the main navigation in a wrapper div."
+msgstr ""
+
+#: storefront-blog-excerpt.php:295
+msgid "Color picker"
+msgstr ""
+
+#: storefront-blog-excerpt.php:296
+msgid "Here's an example color picker. In this instance it applies a background color to headings"
+msgstr ""
+
+#: storefront-blog-excerpt.php:311
+msgid "Select"
+msgstr ""
+
+#: storefront-blog-excerpt.php:312
+msgid "Make a selection!"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "Storefront Blog Excerpt"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://woothemes.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A boilerplate plugin for creating Storefront extensions"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WooThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://woothemes.com/"
+msgstr ""
